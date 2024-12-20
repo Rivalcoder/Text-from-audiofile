@@ -1,9 +1,19 @@
 {
     "version": 2,
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/next"
+      }
+    ],
     "routes": [
       {
         "src": "/api/chat",
-        "dest": "/api/chat"
+        "dest": "/app/api/chat/route.js"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/app/page.js"
       }
     ]
   }
