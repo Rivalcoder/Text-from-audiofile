@@ -9,7 +9,7 @@ const google = createGoogleGenerativeAI({
 
 export async function POST(request) {
   try {
-    console.log("Running Bro")
+    console.log("Backend Is Running...")
     const formData = await request.formData();
     const audioFile = formData.get('file');
     if (!audioFile) {
