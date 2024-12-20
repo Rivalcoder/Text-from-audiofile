@@ -30,8 +30,12 @@ Run And Start Next App: Using
 <li>Next js</li>
 </ul>
 
+<h2>General Information</h2>
+</ul><ul>
+![image](https://github.com/user-attachments/assets/7a96234f-60fb-4c6c-b717-598c8d320de2)
+![image](https://github.com/user-attachments/assets/4583d3d4-dcf8-4e60-8872-a9466e208ba5)
 
-![Screenshot 2024-12-20 142124](https://github.com/user-attachments/assets/c13a3181-e7e4-4780-9cbf-db8a24f10bf2)
+
 
 
 
