@@ -4,15 +4,6 @@
       {
         "src": "next.config.js",
         "use": "@vercel/next"
-      },
-      {
-        "version": 2,
-        "builds": [
-          {
-            "src": "next.config.js",
-            "use": "@vercel/next"
-          }
-        ]
       }
       
     ],
