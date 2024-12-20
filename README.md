@@ -32,8 +32,8 @@ Run And Start Next App: Using
 
 <h2>Screenshots</h2>
 </ul><ul>
-![image](https://github.com/user-attachments/assets/2e381a90-8797-4cfc-a0f1-de21727afd7d)
-![image](https://github.com/user-attachments/assets/0414a897-a573-409c-b4d9-e0a0413c434c)
+[image](https://github.com/user-attachments/assets/2e381a90-8797-4cfc-a0f1-de21727afd7d)
+[image](https://github.com/user-attachments/assets/0414a897-a573-409c-b4d9-e0a0413c434c)
 
 
 
